@@ -5,5 +5,5 @@
  📊 Currently exploring the world of data analytics and machine learning
  🤝🏾Open to do collaborations
  
-[![Vevangee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ovawa)](https://github.com/anuraghazra/github-readme-stats)
+![Vevangee's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
